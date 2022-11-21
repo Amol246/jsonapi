@@ -1,6 +1,6 @@
 [
-	{
-		"abbr": "AJ",
+     {
+	"abbr": "AJ",
         "bname":"Ajanta",
         "type": "Type-C/Type-D-Spl",
         "boxnumber":"(XI)11/(xv),15",
@@ -633,7 +633,7 @@
     { 
         "abbr":"ELL",
         "bname":"Ellora",
-        "type": "Type-C",
+        "type": "Type-C/Type-DSpl",
         "boxnumber":"(XVII),17",
         "employee": "Smt. Rima",
 		"designation": "Sr. UDC",
