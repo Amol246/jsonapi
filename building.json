@@ -183,7 +183,7 @@
 	{
         "abbr":"ATM",
         "bname":"Atmoica",
-        "type": "",
+        "type": "Type-B/Type-C/Typr-D/Type-D_Spl",
         "boxnumber":"(XXII),22",
         "employee": "Shri. Jyoti",
 		"designation": "Assistant",
@@ -192,7 +192,7 @@
 	{
         "abbr":"BAN",
         "bname":"Bandra",
-        "type": "",
+        "type": "Type-C/Type-D/Type-E",
         "boxnumber":"(III),3",
         "employee": "Shri. Jyoti",
 		"designation": "Assistant",
@@ -201,7 +201,7 @@
 	{
         "abbr":"CHEM",
         "bname":"Chembur",
-        "type": "",
+        "type": "Type-B/Type-C",
         "boxnumber":"(III),3/(XXVI),26",
         "employee": "Shri. Jyoti",
 		"designation": "Assistant",
@@ -210,7 +210,7 @@
 	{
         "abbr":"DAMP",
         "bname":"Damodar Park",
-        "type": "",
+        "type": "Type-",
         "boxnumber":"(III),3",
         "employee": "Shri. Jyoti",
 		"designation": "Assistant",
@@ -237,7 +237,7 @@
 	{
         "abbr":"MN",
         "bname":"Mistry Nagar",
-        "type": "",
+        "type": "Type-B/Type-C",
         "boxnumber":"(III),3",
         "employee": "Shri. Jyoti",
 		"designation": "Assistant",
@@ -345,7 +345,7 @@
 	{
         "abbr":"PER",
         "bname":"Periyar",
-        "type": "",
+        "type": "Type-",
         "boxnumber":"(XXVI),26",
         "employee": "Kum. Madhuri",
 		"designation": "Sr. UDC",
@@ -390,7 +390,7 @@
 	{ 
         "abbr":"STA",
         "bname":"Stayam",
-        "type": "",
+        "type": "Type-",
         "boxnumber":"(XXVI),26",
         "employee": "Kum. Madhuri",
 		"designation": "Sr. UDC",
@@ -417,7 +417,7 @@
 	{
         "abbr":"SHUB",
         "bname":"Shubham",
-        "type": "",
+        "type": "Type-D",
         "boxnumber":"(XXVI),26",
         "employee": "Kum. Madhuri",
 		"designation": "Sr. UDC",
@@ -786,7 +786,7 @@
 	{
         "abbr":"PURN",
         "bname":"Purnima",
-        "type": "Type-E1",
+        "type": "Type-E1/Type-Sub",
         "boxnumber":"(XXII),22",
         "employee": "Shri. Abdul",
 		"designation": "UDC",
@@ -840,7 +840,7 @@
 	{
         "abbr":"ZER",
         "bname":"Zerlina",
-        "type": "Type-D",
+        "type": "Type-E2/Type-Sub",
         "boxnumber":"(XXII),22",
         "employee": "Shri. Abdul",
 		"designation": "UDC",
@@ -849,7 +849,7 @@
 	{
         "abbr":"AB",
         "bname":"Anand Bhavan",
-        "type": "Type-E/Type-D-Spl",
+        "type": "Type-E1/Type-E/Type-D/Type-D-Spl/Type-C/Type-Sub",
         "boxnumber":"(XXII),22",
         "employee": "Smt. Neha",
 		"designation": "UDC",
@@ -921,7 +921,7 @@
 	{ 
         "abbr":"KW",
         "bname":"Kenilworth",
-        "type": "Type-C/Type-D/Type-D-Spl",
+        "type": "Type-C/Type-D/Type-D-Spl/Type-E",
         "boxnumber":"(XXII),22",
         "employee": "Smt. Neha",
 		"designation": "UDC",
