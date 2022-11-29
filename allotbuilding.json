@@ -1,0 +1,1184 @@
+[
+	{
+		"abbr": "AJ",
+        "bname":"Ajanta",
+        "type": "Type-C (A)/Type-D_Spl (B,C,D)",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "560/790",
+		"ttm":"TTM-III(Hastinapur), 6603/6673"
+    
+    },
+    { 
+        "abbr":"AL",
+        "bname":"Almora",
+        "type": "Type-D_Spl",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "790",
+		"ttm":"TTM-III(Hastinapur), 6603/6673"
+    },
+    {
+        "abbr":"BDR",
+        "bname":"Badrinath",
+        "type": "Type-D_Spl",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "790",
+		"ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+    { 
+        "abbr":"BHV",
+        "bname":"Bhavani",
+        "type": "Type-B",
+        "series":"",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"EV",
+        "bname":"Everest",
+        "type": "Type-D_Spl",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "790",
+		"ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{
+        "abbr":"GAU",
+        "bname":"Gautami",
+        "type": "Type-B",
+        "series":"",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{ 
+        "abbr":"GRI",
+        "bname":"Grishma",
+        "type": "Type-C",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{
+        "abbr":"GUL",
+        "bname":"Gulmarg",
+        "type": "Type-D_Spl",
+        "series":"(A,B,C,D)",
+        "ac": "1.5",
+		"LF": "790",
+		"ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{
+        "abbr":"GU",
+        "bname":"Gulmohar",
+        "type": "Type-B",
+        "series":"",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{
+        "abbr":"HEM",
+        "bname":"Hemant",
+        "type": "Type-C",
+        "series":"(A,B,D)",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{ 
+        "abbr":"KAI",
+        "bname":"Kailas",
+        "type": "Type-D_Spl",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "790",
+		"ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"KAM",
+        "bname":"Kamet",
+        "type": "Type-D_Spl",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "790",
+		"ttm":"TTM-III(KMU), 6653/6683"
+    },
+	{
+        "abbr":"KUM",
+        "bname":"Kumud", 
+        "type": "Type-B",
+        "series":"",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{
+        "abbr":"SHA",
+        "bname":"Sharad",
+        "type": "Type-C",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{
+        "abbr":"TAKS",
+        "bname":"Takshasila",
+        "type": "Type-B (B,C,D,E)/Type-D (A)",
+        "series":"",
+        "ac": "1.0 ton/1.5 ton",
+		"LF": "370/750",
+		"ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"TUN",
+        "bname":"Tungabhadra",
+        "type": "Type-B",
+        "series":"",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{
+        "abbr":"YAM",
+        "bname":"Yamuna",
+        "type": "Type-C",
+        "series":"(A,B,C,D,E,F,G,H,I,J,K,L)",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-(Western Sector), 6651" 
+    },
+	{
+        "abbr":"AKD",
+        "bname":"Akashdeep",
+        "type": "Type-TrO_Plus",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{ 
+        "abbr":"AKG",
+        "bname":"Akashganga",
+        "type": "Type-TrO_Plus",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{ 
+        "abbr":"AKR",
+        "bname":"Akashratna",
+        "type": "Type-TrO_Plus",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-III(KMU), 6653/6683"
+    },
+	{
+        "abbr":"ATM",
+        "bname":"Atmoica",
+        "type": "Type-B/Type-C/Type-D/Type-D_Spl",
+        "series":"",
+        "ac": "1.0 ton/1.5 ton",
+		"LF": "370/560/750/790",
+		"ttm":"TTM-(LGR), 23630964" 
+    },
+	{
+        "abbr":"BAN",
+        "bname":"Bandra",
+        "type": "Type-C/Type-D/Type-E",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "560/750/1400",
+		"ttm":"TTM-(LGR), 23630964"
+    },
+	{
+        "abbr":"CHEM",
+        "bname":"Chembur",
+        "type": "",
+        "series":"",
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-(Chembur), 25222574"
+    },
+	{
+        "abbr":"DAMP",
+        "bname":"Damodar Park",
+        "type": "",
+        "series":"",
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-()" 
+    },
+	{
+        "abbr":"GHAT",
+        "bname":"Ghatkopar",
+        "type": "",
+        "series":"",
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-(Chembur), 25222574"
+    },
+	{
+        "abbr":"MALG",
+        "bname":"Malaygiri",
+        "type": "Type-E",
+        "series":"(A,B,C,D,E,F)",
+        "ac": "1.5",
+		"LF": "1400",
+		"ttm":"TTM-II(Brindavan), 6602/6672"
+    },
+	{
+        "abbr":"MN",
+        "bname":"Mistry Nagar",
+        "type": "",
+        "series":"",
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-(LGR), 23630964" 
+    },
+	{
+        "abbr":"TUKR", 
+        "bname":"Tukaram Chowk",
+        "type": "Type-A",
+        "series":"(A,B,C,D,E)",
+        "ac": "1.0 ton",
+		"LF": "180",
+		"ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"TULS",
+        "bname":"Tulsidas Chowk", 
+        "type": "Type-A",
+        "series":"(A,B,C)",
+        "ac": "1.0 ton",
+		"LF": "180",
+		"ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"JAI",
+        "bname":"Jaideo Chowk",
+        "type": "Type-B",
+        "series":"(A,B,C,D,E)",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"BHE",
+        "bname":"Bheema",
+        "type": "Type-TrA",
+        "series":"(A,B)",
+        "ac": "1.0 ton",
+		"LF": "180",
+		"ttm":"TTM-(Western Sector), 6651"
+    },
+    {
+        "abbr":"BRH",
+        "bname":"Brhamputra",
+        "type": "Type-B",
+        "series":"(A,B,C,D,E)",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"CHAN",
+        "bname":"Chandrabhaga",
+        "type": "Type-TrA",
+        "series":"(A,B)",
+        "ac": "1.0 ton",
+		"LF": "180",
+		"ttm":"TTM-(Western Sector), 6651" 
+    },
+	{
+        "abbr":"CHEN",
+        "bname":"Chenab",
+        "type": "",
+        "series":"" ,
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-()"
+    },
+	{
+        "abbr":"HEMA",
+        "bname":"Hemavati",
+        "type": "Type-B",
+        "series":"(A,B,C,D)",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-IV(New Mandala), 6604/6674"
+    },
+	{ 
+        "abbr":"INDR",
+        "bname":"Indrayani",
+        "type": "Type-TrA",
+        "series":"(A,B,C,D)",
+        "ac": "1.0 ton",
+        "LF": "180",
+        "ttm":"TTM-(Western Sector), 6651" 
+    },
+	{
+        "abbr":"MAN",
+        "bname":"Mandovi",
+        "type": "",
+        "series":"",
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-()"
+    },
+	{
+        "abbr":"PARJ",
+        "bname":"Parijat",
+        "type": "Type-B",
+        "series":"(A,B,C,D)",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{
+        "abbr":"PER",
+        "bname":"Periyar",
+        "type": "Type-D",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "750",
+		"ttm":"TTM-(Old Mandala), 6605/6675" 
+    },
+	{
+        "abbr":"SAHY",
+        "bname":"Sahyadri",
+        "type": "Type-C",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-II(Brindavan), 6602/6672"
+    },
+    { 
+        "abbr":"SAN",
+        "bname":"Sanchi",
+        "type": "Type-C",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-III(Hastinapur), 6603/6673" 
+    },
+	{ 
+        "abbr":"SANJ",
+        "bname":"Sanjeevani",
+        "type": "",
+        "series":"",
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-()" 
+    },
+	{
+        "abbr":"SARN",
+        "bname":"Sarnath",
+        "type": "Type-C",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{ 
+        "abbr":"STA",
+        "bname":"Stayam",
+        "type": "Type-C",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-(Old Mandala), 6605/6675"
+    },
+	{ 
+        "abbr":"SHAR",
+        "bname":"Sharavati",
+        "type": "Type-B",
+        "series":"(A,B,C,D)",
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-IV(New Mandala), 6604/6674"
+    },
+	{
+        "abbr":"SHI",
+        "bname":"Shivam",
+        "type": "Type-D",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "750",
+		"ttm":"TTM-(Old Mandala), 6605/6675"
+    },
+	{
+        "abbr":"SHUB",
+        "bname":"Shubham",
+        "type": "",
+        "series":"",
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-(Old Mandala), 6605/6675"
+    },
+	{
+        "abbr":"SUND",
+        "bname":"Sundaram",
+        "type": "",
+        "series":"",
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-(Old Mandala), 6605/6675"
+    },
+	{
+        "abbr":"TRI",
+        "bname":"Triveni",
+        "type": "Type-B",
+        "series":"(1 to 24)" ,
+        "ac": "1.0 ton",
+		"LF": "370",
+		"ttm":"TTM-IV(New Mandala), 6604/6674"
+    },
+	{
+        "abbr":"VAI",
+        "bname":"Vaitarna",
+        "type": "",
+        "series":"(1 to 16 )",
+        "ac": "",
+		"LF": "",
+		"ttm":"TTM-(Old Mandala), 6605/6675"
+    },
+	{
+        "abbr":"VASU",
+        "bname":"Vasundhara",
+        "type": "Type-B",
+        "series":"(1 to 24)",
+        "ac": "",
+		"LF": "370",
+		"ttm":"TTM-IV(New Mandala), 6604/6674" 
+    },
+	{
+        "abbr":"VIND",
+        "bname":"Vindhya",
+        "type": "Type-C",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "560",
+		"ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{ 
+        "abbr":"ARAV",
+        "bname":"Aravalli",
+        "type": "Type-D_Spl",
+        "series":"(1 to 62)",
+        "ac": "1.5 ton",
+		"LF": "790",
+        "ttm":"TTM-II(Brindavan), 6602/6672"  
+    },
+	{ 
+        "abbr":"DAR",
+        "bname":"Darbari",
+        "type": "Type-D",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(KMU), 6653/6683"  
+    },
+	{
+        "abbr":"DEE",
+        "bname":"Deepak",
+        "type": "Type-D",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(KMU), 6653/6683"  
+    },
+	{
+        "abbr":"EKN",
+        "bname":"Eknath",
+        "type": "Type-A",
+        "series":"(A,B,C,D,E,F,G,H,I,J)",
+        "ac": "1.0 ton",
+		"LF": "180",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"KAL",
+        "bname":"Kalani",
+        "type": "Type-D",
+        "series":"(1 to 18)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{
+        "abbr":"MAL",
+        "bname":"Malhar",
+        "type": "Type-D",
+        "series":"(1 to 18)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(KMU), 6653/6683"  
+    },
+	{
+        "abbr":"MEER",
+        "bname":"Meerabai Chowk",
+        "type": "Type-B",
+        "series":"(A,B,C,D,E)",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"  
+    },
+	{
+        "abbr":"MOH",
+        "bname":"Mohana",
+        "type": "Type-D",
+        "series":"(1 to 18)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{
+        "abbr":"MOU",
+        "bname":"Mount Abu",
+        "type": "Type-D_Spl",
+        "series":"(1 to 62)",
+        "ac": "1.5 ton",
+		"LF": "790",
+        "ttm":"TTM-II(Brindavan), 6602/6672"
+    },
+	{
+        "abbr":"MUSS",
+        "bname":"Mussoorie",
+        "type": "Type-D_Spl",
+        "series":"(1 to 62)",
+        "ac": "1.5 ton",
+		"LF": "790",
+        "ttm":"TTM-II(Brindavan), 6602/6672"  
+    },
+	{
+        "abbr":"NAN",
+        "bname":"Nandadevi",
+        "type": "Type-E",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "1400",
+        "ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{
+        "abbr":"NAR",
+        "bname":"Narmada",
+        "type": "Type-A",
+        "series":"(A,B,C,D)",
+        "ac": "1.0 ton",
+		"LF": "180",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"RAN",
+        "bname":"Ranjani",
+        "type": "Type-D",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(KMU), 6653/6683"
+    },
+	{
+        "abbr":"SAB",
+        "bname":"Sabarigiri",
+        "type": "Type-D_Spl",
+        "series":"(1 to 62)",
+        "ac": "1.5 ton",
+		"LF": "790",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"SARG",
+        "bname":"Sarang",
+        "type": "Type-D",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(KMU), 6653/6683"
+    },
+	{
+        "abbr":"SATP",
+        "bname":"Satpura",
+        "type": "Type-D_Spl",
+        "series":"(1 to 62)",
+        "ac": "1.5 ton",
+		"LF": "790",
+        "ttm":"TTM-II(Brindavan), 6602/6672"
+    },
+	{
+        "abbr":"TAP",
+        "bname":"Tapti",
+        "type": "Type-B",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "370",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"
+    },
+	{
+        "abbr":"VENG",
+        "bname":"Venkatagiri",
+        "type": "Type-D_Spl",
+        "series":"(1 to 62)",
+        "ac": "1.5 ton",
+		"LF": "790",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+    { 
+        "abbr":"ELL",
+        "bname":"Ellora",
+        "type": "Type-C (A)/Type-D_Spl (B, C, D)",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "C-560/D_Spl-790",
+        "ttm":"TTM-III(Hastinapur), 6603/6673"
+    },
+	{ 
+        "abbr":"HAST",
+        "bname":"Hastinapur",
+        "type": "Type-D",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(Hastinapur), 6603/6673"
+    },
+	{
+        "abbr":"INDP",
+        "bname":"Indrapastha",
+        "type": "Type-D",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(Hastinapur), 6603/6673"
+    },
+	{ 
+        "abbr":"KAP",
+        "bname":"Kapilvastu",
+        "type": "Type-D",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(Hastinapur), 6603/6673"
+    },
+	{
+        "abbr":"PANK",
+        "bname":"Pankaj",
+        "type": "Type-B",
+        "series":"(1 to 64)",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-IV(New Mandala), 6604/6674"
+    },
+	{
+        "abbr":"VASN",
+        "bname":"Vasant",
+        "type": "Type-C",
+        "series":"(1 to 40 )",
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-IV(New Mandala), 6604/6674"  
+    },
+    { 
+        "abbr":"ANNP",
+        "bname":"Annapurna",
+        "type": "Type-E",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "1400",
+        "ttm":"TTM-III(Hastinapur), 6603/6673"
+    },
+	{
+        "abbr":"DHAG",
+        "bname":"Dhawalgiri",
+        "type": "Type-E",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "1400",
+        "ttm":"TTM-III(KMU), 6653/6683"  
+    },
+	{ 
+        "abbr":"ESQ",
+        "bname":"E.S.Q.",
+        "type": "Type-A",
+        "series":"(1 to 14 )",
+        "ac": "1.0 ton",
+		"LF": "180",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"  
+    },
+	{ 
+        "abbr":"GHAG",
+        "bname":"Ghagra",
+        "type": "Type-B",
+        "series":"(1 to 80 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{ 
+        "abbr":"GOD",
+        "bname":"Godavari",
+        "type": "Type-B",
+        "series":"(1 to 72 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"GOM",
+        "bname":"Gomati",
+        "type": "Type-B",
+        "series":"(1 to 32 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"KAN",
+        "bname":"Kanchanjunga",
+        "type": "Type-E",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "1400",
+        "ttm":"TTM-III(KMU), 6653/6683"  
+    },
+	{
+        "abbr":"KRD",
+        "bname":"Kedarnath",
+        "type": "Type-D_Spl",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "790",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"  
+    },
+	{
+        "abbr":"KRI",
+        "bname":"Krishna",
+        "type": "Type-B",
+        "series":"(1 to 40 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-II(Brindavan), 6602/6672"  
+    },
+	{
+        "abbr":"MANDA",
+        "bname":"Mandala",
+        "type": "Type-B/Type-C",
+        "series":"",
+        "ac": "1.0 ton/1.5 ton",
+		"LF": "B-370/C-560",
+        "ttm":"TTM-(Old Mandala), 6605/6675"  
+    },
+	{
+        "abbr":"NAMD",
+        "bname":"Namdeo Chowk",
+        "type": "Type-B",
+        "series":"(A,B,C,D,E)",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"  
+    },
+	{
+        "abbr":"PURN",
+        "bname":"Purnima",
+        "type": "Type-E1",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "1840",
+        "ttm":"TTM-(LGR), 23630964" 
+    },
+	{
+        "abbr":"SARA",
+        "bname":"Saraswati",
+        "type": "Type-B",
+        "series":"(1 to 32 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"SHANT",
+        "bname":"Shantinkiketan",
+        "type": "Type-E1",
+        "series":"(1 to 48 )",
+        "ac": "1.5 ton",
+		"LF": "1840",
+        "ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{
+        "abbr":"SREE",
+        "bname":"Sreeniketan",
+        "type": "Type-E1",
+        "series":"(1 to 48 )",
+        "ac": "1.5 ton",
+		"LF": "1840",
+        "ttm":"TTM-II(Brindavan), 6602/6672"   
+    },
+	{
+        "abbr":"SUR",
+        "bname":"Surabhi",
+        "type": "Type-D",
+        "series":"(A,B,C)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(KMU), 6653/6683"   
+    },
+	{
+        "abbr":"VARS",
+        "bname":"Varsha",
+        "type": "Type-C",
+        "series":"(A,B,C,D)", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-IV(New Mandala), 6604/6674"  
+    },
+	{
+        "abbr":"ZER",
+        "bname":"Zerlina",
+        "type": "Type-E-II",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "2580",
+        "ttm":"TTM-(LGR), 23630964"  
+    },
+	{
+        "abbr":"AB",
+        "bname":"Anand Bhavan",
+        "type": "Type-C/Type-D/Type-D_Spl/Type-E/Type-E1",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "C-560/D-750/D_Spl-790/E-1400/E1-1840",
+        "ttm":"TTM-(LGR), 23630964"  
+    },
+	{ 
+        "abbr":"BHAS",
+        "bname":"Bhaskara",
+        "type": "Type-D/Type-D_Spl/Type-E",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "D-750/D_Spl-790/E-1400",
+        "ttm":"TTM-(LGR), 23630964"  
+    },
+	{
+        "abbr":"CAU",
+        "bname":"Cauveri",
+        "type": "Type-B",
+        "series":"(1 to 40 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-II(Brindavan), 6602/6672"  
+    },
+	{
+        "abbr":"CHAI",
+        "bname":"Chaitanya",
+        "type": "Type-B",
+        "series":"( 1 to 36 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"  
+    },
+	{ 
+        "abbr":"CHAM",
+        "bname":"Champa",
+        "type": "Type-B",
+        "series":"(1 to 32 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-IV(New Mandala), 6604/6674"  
+    },
+	{
+        "abbr":"GIRN",
+        "bname":"Girnar",
+        "type": "Type-D_Spl",
+        "series":"(1 to 62)",
+        "ac": "1.5 ton",
+		"LF": "790",
+        "ttm":"TTM-II(Brindavan), 6602/6672"  
+    },
+	{ 
+        "abbr":"KABI",
+        "bname":"Kabir Chowk",
+        "type": "Type-B",
+        "series":"(A,B,C,D,E)",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"  
+    },
+	{
+        "abbr":"KAML",
+        "bname":"Kamal",
+        "type": "Type-B",
+        "series":"(A,B,C,D)",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-IV(New Mandala), 6604/6674"  
+    },
+	{ 
+        "abbr":"KW",
+        "bname":"Kenilworth",
+        "type": "Type-C/Type-D_Spl/Type-E",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "C-560/D_Spl-790/E-1400",
+        "ttm":"TTM-(LGR), 23630964"  
+    },
+	{
+        "abbr":"LAL",
+        "bname":"Lalit",
+        "type": "Type-D",
+        "series":"(1 to 18)" ,
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{
+        "abbr":"MEG",
+        "bname":"Meghnad",
+        "type": "Type-E",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "1400",
+        "ttm":"TTM-(LGR), 23630964"  
+    },
+	{
+        "abbr":"NAL",
+        "bname":"Nalanda",
+        "type": "Type-D",
+        "series":"(A,B,C,D)",
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-II(Brindavan), 6602/6672"  
+    },
+	{
+        "abbr":"NET",
+        "bname":"Netravati",
+        "type": "Type-B",
+        "series":"(1 to 80 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-III(Hastinapur), 6603/6673"  
+    },
+	{
+        "abbr":"NIL",
+        "bname":"Nilgiri",
+        "type": "Type-TrO",
+        "series":"",
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-III(Hastinapur), 6603/6673" 
+    },
+	{ 
+        "abbr":"SATL",
+        "bname":"Satluj",
+        "type": "Type-C",
+        "series":"(A,B)",
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-(Western Sector), 6651"  
+    },
+	{
+        "abbr":"SIND",
+        "bname":"Sindhu",
+        "type": "Type-B",
+        "series":"(1 to 40 )",
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-IV(New Mandala), 6604/6674"  
+    },
+	{
+        "abbr":"UDAY",
+        "bname":"Udayagiri",
+        "type": "Type-E",
+        "series":"(A,B,C,D,E,F)",
+        "ac": "1.5 ton",
+		"LF": "1400",
+        "ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{
+        "abbr":"ALK",
+        "bname":"Alakananda", 
+        "type": "Type-C",
+        "series":"(1 to 60 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"BHAG",
+        "bname":"Bhagirathi", 
+        "type": "Type-C",
+        "series":"(1 to 72 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"BHAIR",
+        "bname":"Bhairavi",
+        "type": "Type-D",
+        "series":"(1 to 8)", 
+        "ac": "1.5 ton",
+		"LF": "750",
+        "ttm":"TTM-III(Hastinapur), 6603/6673" 
+    },
+	{
+        "abbr":"BRIN",
+        "bname":"Brindavan",
+        "type": "Type-C",
+        "series":"(1 to 48 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"CHID",
+        "bname":"Chidambaram",
+        "type": "Type-C",
+        "series":"(1 to 26)", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{ 
+        "abbr":"DILW",
+        "bname":"Dilwara",
+        "type": "Type-C",
+        "series":"(1 to 34 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"DWA",
+        "bname":"Dwarka", 
+        "type": "Type-C",
+        "series":"(1 to 48 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"GAND",
+        "bname":"Gandaki", 
+        "type": "Type-B",
+        "series":"(1 to 48 )", 
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"GANG",
+        "bname":"Gangotri",
+        "type": "Type-C",
+        "series":"(1 to 32 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{
+        "abbr":"GAUR",
+        "bname":"Gaurishankar",
+        "type": "Type-C",
+        "series":"(1 to 32 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-III(KMU), 6653/6683" 
+    },
+	{
+        "abbr":"GOL",
+        "bname":"Golconda", 
+        "type": "Type-C",
+        "series":"(1 to 48 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-III(Hastinapur), 6603/6673" 
+    },
+	{
+        "abbr":"MANA",
+        "bname":"Manasarovar", 
+        "type": "Type-C",
+        "series":"(A,B,C,D)", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671" 
+
+    },
+	{
+        "abbr":"MAND",
+        "bname":"Mandakini",
+        "type": "Type-C",
+        "series":"(1 to 80 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"
+    },
+	{
+        "abbr":"PAM",
+        "bname":"Pampa", 
+        "type": "Type-C",
+        "series":"(1 to 48 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-III(Hastinapur), 6603/6673" 
+    },
+	{ 
+        "abbr":"PATL",
+        "bname":"Patliputra", 
+        "type": "Type-C/Type-D",
+        "series":"(B,E)/(A,C,D)", 
+        "ac": "1.5 ton",
+		"LF": "C-560/D-750",
+        "ttm":"TTM-II(Brindavan), 6602/6672" 
+    },
+	{ 
+        "abbr":"RAJ",
+        "bname":"Rajanigandha", 
+        "type": "Type-B",
+        "series":"(A,B,C,D)", 
+        "ac": "1.0 ton",
+		"LF": "370",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"RAM",
+        "bname":"Ramdas Chowk", 
+        "type": "Type-A",
+        "series":"(A,B,C,D,E)", 
+        "ac": "1.0 ton",
+		"LF": "180",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"SABA",
+        "bname":"Sabarmati", 
+        "type": "Type-C",
+        "series":"(1 to 32 )", 
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671" 
+    },
+	{
+        "abbr":"SARY",
+        "bname":"Sarayu",
+        "type": "Type-C",
+        "series":"(1 to 32 )",
+        "ac": "1.5 ton",
+		"LF": "560",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"
+    },
+	{
+        "abbr":"WAR",
+        "bname":"Warna", 
+        "type": "Type-A",
+        "series":"(A,B,C)", 
+        "ac": "1.0 ton",
+		"LF": "180",
+        "ttm":"TTM-I(Bhagirathi), 6601/6671"
+    }
+						
+]
